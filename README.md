@@ -9,7 +9,8 @@ API
 
 FRONTEND - CSS. ДОПОЛНИТЕЛЬНО ВЫВЕДЕНА ТАБЛИЦА БД на localhost/  
 ТЕСТИРОВАНИЕ -  Postman.  
-.BAT - Для активации VENV и запуска сервера.(Виртуальное окружение нужно реализовать самостоятельно, т.к гитхаб запрещает грузить папку venv в репозиторий)
+.BAT - Для активации VENV и запуска сервера.  
+(Виртуальное окружение нужно реализовать самостоятельно, т.к гитхаб запрещает грузить папку venv в репозиторий)
 ![](https://github.com/DanZak91/cars_catalog_REST_API/blob/main/cars_cat.gif)
 ![](https://github.com/DanZak91/cars_catalog_REST_API/blob/main/picture/post_.JPG)
 ![](https://github.com/DanZak91/cars_catalog_REST_API/blob/main/picture/pssql.JPG)
