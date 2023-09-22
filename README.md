@@ -12,3 +12,9 @@ FRONTEND - CSS. ДОПОЛНИТЕЛЬНО ВЫВЕДЕНА ТАБЛИЦА БД 
 .BAT - Для активации VENV и запуска сервера.  
 ![](https://github.com/DanZak91/cars_catalog_REST_API/blob/main/cars_cat.gif)
 ![](https://github.com/DanZak91/cars_catalog_REST_API/blob/main/picture/post_.JPG)
+![](https://github.com/DanZak91/cars_catalog_REST_API/blob/main/picture/pssql.JPG)
+![](https://github.com/DanZak91/cars_catalog_REST_API/blob/main/picture/post_warning.JPG)
+![](https://github.com/DanZak91/cars_catalog_REST_API/blob/main/picture/get_.JPG)
+![](https://github.com/DanZak91/cars_catalog_REST_API/blob/main/picture/delete_.JPG)
+![](https://github.com/DanZak91/cars_catalog_REST_API/blob/main/picture/stats.JPG)
+![](https://github.com/DanZak91/cars_catalog_REST_API/blob/main/picture/front.JPG)
