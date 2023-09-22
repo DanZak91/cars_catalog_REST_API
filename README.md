@@ -10,3 +10,4 @@ API
 FRONTEND - CSS. ДОПОЛНИТЕЛЬНО ВЫВЕДЕНА ТАБЛИЦА БД на localhost/  
 ТЕСТИРОВАНИЕ -  Postman.  
 ![](https://github.com/DanZak91/cars_catalog_REST_API/blob/main/cars_cat.gif)
+![](https://github.com/DanZak91/cars_catalog_REST_API/blob/main/picture/post_.JPG)
