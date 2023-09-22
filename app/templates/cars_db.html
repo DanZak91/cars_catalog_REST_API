@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Справочник автомобилей</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <table class="container">
+    <h1>Справочник автомобилей</h1>
+    <tbody>
+        <tr>
+            <th>ID</th>
+	    <th>Number plate</th>
+            <th>Сar make</th>
+            <th>Color</th>
+	    <th>Year</th>
+            <th>engine_power</th>
+            <th>transmission</th>
+	    <th>fuel_type</th>
+            <th>car_mileage</th>
+            <th>car_price</th>
+            <th>date_add</th>
+        </tr>
+        {% for row in rows %}
+        <tr>
+            <td>{{ row[0] }}</td>
+	    <td>{{ row[1] }}</td>
+	    <td>{{ row[2]}}</td>
+            <td>{{ row[3] }}</td>
+	    <td>{{ row[4] }}</td>
+	    <td>{{ row[5] }}</td>
+            <td>{{ row[6] }}</td>
+	    <td>{{ row[7] }}</td>
+	    <td>{{ row[8]}}</td>
+            <td>{{ row[9] }}</td>
+            <td>{{ row[10] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+  </table>
+</body>
+</html>

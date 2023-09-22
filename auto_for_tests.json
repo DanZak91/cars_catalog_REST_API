@@ -1,0 +1,57 @@
+[
+    {
+        "number_plate": "x564xp96",
+        "car_make": "Ford Focus 2",
+        "color": "Серо-голубой",
+        "year": 2007,
+        "engine_power": 100,
+        "transmission": "AT",
+        "fuel_type": "gas",
+        "car_mileage": 211000,
+        "car_price": 350000
+    },
+    {
+        "number_plate": "a001aa01",
+        "car_make": "BMW 7",
+        "color": "Черный",
+        "year": 2018,
+        "engine_power": 350,
+        "transmission": "AT",
+        "fuel_type": "diesel",
+        "car_mileage": 74005,
+        "car_price": 2450000
+    },
+    {
+        "number_plate": "СФ0011А",
+        "car_make": "GAZ",
+        "color": "Белый",
+        "year": 1952,
+        "engine_power": 74,
+        "transmission": "МТ",
+        "fuel_type": "diesel",
+        "car_mileage": 85000,
+        "car_price": 128500
+    },
+    {
+        "number_plate": "p001ax77",
+        "car_make": "VAZ 2109",
+        "color": "Красный",
+        "year": 1994,
+        "engine_power": 86,
+        "transmission": "MT",
+        "fuel_type": "gas",
+        "car_mileage": 266450,
+        "car_price": 92000
+    },
+    {
+        "number_plate": "н001ос74",
+        "car_make": "Toyota Corolla",
+        "color": "Зеленый",
+        "year": 2012,
+        "engine_power": 125,
+        "transmission": "CVT",
+        "fuel_type": "gas",
+        "car_mileage": 167523,
+        "car_price": 750000
+    }
+]
